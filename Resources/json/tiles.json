@@ -1,0 +1,167 @@
+{   
+    "tiles": [   
+        {
+            "name": "debug",
+            "bitmap": "debug",
+            "collision width": 50,
+            "collision height": 50
+        },
+        {
+            "name": "path",
+            "bitmap": "path",
+            "collision": "empty",
+            "collision width": 0,
+            "collision height": 0
+        },
+        {
+            "name": "road1",
+            "bitmap": "road1",
+            "collision width": 0,
+            "collision height": 0
+        },
+        {
+            "name": "road2",
+            "bitmap": "road2",
+            "collision width": 0,
+            "collision height": 0
+        },
+        {
+            "name": "road3",
+            "bitmap": "road3",
+            "collision width": 0,
+            "collision height": 0
+        },
+        {
+            "name": "roof1",
+            "bitmap": "roof1",
+            "collision width": 50,
+            "collision height": 50
+        },
+        {
+            "name": "roof1",
+            "bitmap": "roof1",
+            "collision width": 50,
+            "collision height": 50
+        },
+        {
+            "name": "roof2",
+            "bitmap": "roof2",
+            "collision width": 50,
+            "collision height": 50
+        },
+        {
+            "name": "roof3",
+            "bitmap": "roof3",
+            "collision width": 50,
+            "collision height": 50
+        },
+        {
+            "name": "roof4",
+            "bitmap": "roof4",
+            "collision width": 50,
+            "collision height": 50
+        },
+        {
+            "name": "roof5",
+            "bitmap": "roof5",
+            "collision width": 50,
+            "collision height": 50
+        },
+        {
+            "name": "roof6",
+            "bitmap": "roof6",
+            "collision width": 50,
+            "collision height": 50
+        },
+        {
+            "name": "roof7",
+            "bitmap": "roof7",
+            "collision width": 50,
+            "collision height": 50
+        },
+        {
+            "name": "roof8",
+            "bitmap": "roof8",
+            "collision width": 50,
+            "collision height": 50
+        },
+        {
+            "name": "roof9",
+            "bitmap": "roof9",
+            "collision width": 50,
+            "collision height": 50
+        },
+        {
+            "name": "roof10",
+            "bitmap": "roof10",
+            "collision width": 50,
+            "collision height": 50
+        },
+        {
+            "name": "roof11",
+            "bitmap": "roof11",
+            "collision width": 50,
+            "collision height": 50
+        },
+        {
+            "name": "roof12",
+            "bitmap": "roof12",
+            "collision width": 50,
+            "collision height": 50
+        },
+        {
+            "name": "roof13",
+            "bitmap": "roof13",
+            "collision width": 50,
+            "collision height": 50
+        },
+        {
+            "name": "roof14",
+            "bitmap": "roof14",
+            "collision width": 50,
+            "collision height": 50
+        },
+        {
+            "name": "roof15",
+            "bitmap": "roof15",
+            "collision width": 50,
+            "collision height": 50
+        },
+        {
+            "name": "roof16",
+            "bitmap": "roof16",
+            "collision width": 50,
+            "collision height": 50
+        },
+        {
+            "name": "grass",
+            "bitmap": "grass",
+            "collision width": 0,
+            "collision height": 0
+        },
+        {
+            "name": "car shop",
+            "bitmap": "carShop",
+            "collision width": 50,
+            "collision height": 50
+        },
+        {
+            "name": "gun store",
+            "bitmap": "gunStore",
+            "collision width": 50,
+            "collision height": 50
+        },
+        {
+            "name": "water",
+            "bitmap": "water",
+            "collision width": 50,
+            "collision height": 50
+        },
+        {
+            "name": "shop",
+            "bitmap": "shop",
+            "collision width": 0,
+            "collision height": 0
+        }
+    ]
+}

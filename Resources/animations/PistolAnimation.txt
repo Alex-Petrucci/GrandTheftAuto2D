@@ -1,0 +1,10 @@
+SplashKit Animation
+
+// normal
+f:0,0,10,0
+
+// fire
+f:1,1,5,0
+
+i:Normal,0
+i:Fire,1

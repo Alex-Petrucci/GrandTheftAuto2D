@@ -1,0 +1,129 @@
+{
+    "shops": [
+        {
+            "id": 0,
+            "items": [
+                {
+                    "type": "car",
+                    "price": 100,
+                    "bitmap": "sportsCar1",
+                    "acceleration": 1,
+                    "max speed": 10,
+                    "turn speed": 5,
+                    "spawn x": 0,
+                    "spawn y": -100
+                },
+                {
+                    "type": "car",
+                    "price": 80,
+                    "bitmap": "sportsCar2",
+                    "acceleration": 0.8,
+                    "max speed": 10,
+                    "turn speed": 10,
+                    "spawn x": 0,
+                    "spawn y": -100
+                },
+                {
+                    "type": "car",
+                    "price": 150,
+                    "bitmap": "sportsCar3",
+                    "acceleration": 1.2,
+                    "max speed": 12,
+                    "turn speed": 4,
+                    "spawn x": 0,
+                    "spawn y": -100
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "items": [
+                {
+                    "type": "gun",
+                    "price": 100,
+                    "bitmap": "pistol",
+                    "range" : 500,
+                    "fire rate" : 20,
+                    "fire power" : 10,
+                    "damage" : 20
+                },
+                {
+                    "type": "melee",
+                    "price": 25,
+                    "bitmap": "knife",
+                    "damage": 10,
+                    "radius": 30,
+                    "speed": 10
+                },
+                {
+                    "type": "health",
+                    "price": 50,
+                    "amount": 20
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "items": [
+                {
+                    "type": "health",
+                    "price": 100,
+                    "amount": 50
+                },
+                {
+                    "type": "gun",
+                    "price": 250,
+                    "bitmap": "smg",
+                    "range" : 500,
+                    "fire rate" : 4,
+                    "fire power" : 14,
+                    "damage" : 5
+                },
+                {
+                    "type": "gun",
+                    "price": 150,
+                    "bitmap": "shotgun",
+                    "range" : 1000,
+                    "fire rate" : 60,
+                    "fire power" : 12,
+                    "damage" : 100
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "items": [
+                {
+                    "type": "car",
+                    "price": 200,
+                    "bitmap": "sportsCar4",
+                    "acceleration": 1.2,
+                    "max speed": 15,
+                    "turn speed": 1,
+                    "spawn x": 0,
+                    "spawn y": 100
+                },
+                {
+                    "type": "car",
+                    "price": 175,
+                    "bitmap": "sportsCar5",
+                    "acceleration": 1,
+                    "max speed": 12,
+                    "turn speed": 10,
+                    "spawn x": 0,
+                    "spawn y": 100
+                },
+                {
+                    "type": "car",
+                    "price": 125,
+                    "bitmap": "sportsCar6",
+                    "acceleration": 0.5,
+                    "max speed": 20,
+                    "turn speed": 10,
+                    "spawn x": 0,
+                    "spawn y": 100
+                }
+            ]
+        }
+    ]
+}
