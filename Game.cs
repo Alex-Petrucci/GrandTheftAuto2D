@@ -17,7 +17,7 @@ namespace Gta2D
             SplashKit.LoadResourceBundle("game bundle", "GameBundle.txt");
             Tile.LoadTileTypes();
             _gameStates = [];
-            _window = new Window("Grand Theft Swinburne", 640, 480);
+            _window = new Window("Grand Theft Auto 2D", 640, 480);
 
             _window.Clear(Color.Black);
             SplashKit.DrawText("Loading...", Color.White, "uiFont", 36, 10, 10);
